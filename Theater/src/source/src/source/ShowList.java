@@ -7,7 +7,7 @@ import java.io.Serializable;
 import java.util.*;
 /**
  * Stores a list of shows
- * @author Samuel Hough
+ * @author Clint McCarthy
  *
  */
 public class ShowList extends LinkedList<Show> implements Serializable {
