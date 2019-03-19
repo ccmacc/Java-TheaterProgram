@@ -7,7 +7,7 @@ import java.io.ObjectOutputStream;
 import java.io.Serializable;
 /**
  * Generates member ids.
- * @author Brahma Dathan and Sarnath Ramnath
+ * @author Clint McCarthy
  *
  */
 public class CustomerIdServer implements Serializable {
