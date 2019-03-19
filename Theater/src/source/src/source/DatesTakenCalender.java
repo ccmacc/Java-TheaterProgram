@@ -4,7 +4,7 @@ import java.util.*;
 import java.io.*;
 /**
  * Stores a list of dates reserved for various plays
- * @author Samuel Hough
+ * @author Clint McCarthy
  *
  */
 public class DatesTakenCalender extends LinkedList<GregorianCalendar> implements Serializable {
