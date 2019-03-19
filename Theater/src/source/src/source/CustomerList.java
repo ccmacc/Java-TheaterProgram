@@ -7,7 +7,7 @@ import java.io.Serializable;
 import java.util.*;
 /**
  * Stores a list of members
- * @author Samuel Hough
+ * @author Clint McCarthy
  *
  */
 public class CustomerList extends LinkedList<Customer> implements Serializable{
