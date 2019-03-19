@@ -6,9 +6,9 @@ import java.io.Serializable;
 import java.util.*;
 /**
  * Stores a list of credit cards
- * @author Samuel Hough
+ * @author Clint McCarthy
  *
- */
+ */Clint McCarthy
 public class CreditCardList extends LinkedList<CreditCard> implements Serializable {
 	private static final long serialVersionUID = 1L;
 	private static CreditCardList creditCards;
